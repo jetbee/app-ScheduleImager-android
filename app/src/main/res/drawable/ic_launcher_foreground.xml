@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple calendar glyph: a card body with two binder rings and a header
+     strip, centered in the adaptive icon's 66dp safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,30 h52 a4,4 0 0 1 4,4 v42 a4,4 0 0 1 -4,4 h-52 a4,4 0 0 1 -4,-4 v-42 a4,4 0 0 1 4,-4 z" />
+    <path
+        android:fillColor="#2F56D6"
+        android:pathData="M24,30 h60 v14 h-60 z" />
+    <path
+        android:fillColor="#9FB2EC"
+        android:pathData="M39,20 h6 v14 h-6 z" />
+    <path
+        android:fillColor="#9FB2EC"
+        android:pathData="M63,20 h6 v14 h-6 z" />
+    <path
+        android:fillColor="#2F56D6"
+        android:pathData="M36,54 h14 v8 h-14 z M58,54 h14 v8 h-14 z M36,68 h14 v8 h-14 z" />
+</vector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Schedule Imager</string>
+    <string name="widget_label">Schedule Imager</string>
+    <string name="widget_description">予定を時間割イメージで表示します</string>
+</resources>
